@@ -1,7 +1,7 @@
 # Delsuc Lucas
 
 ## À propos de moi
-Étudiant passionné en information-communication, et passionné de catapultes.
+Étudiant passionné en information-communication, et passionné de catapultes. (C'est pour justifier le jeu de mot de mon nom d'utilisateur que les derniers mots sont là).
 
 ## Formation
 - **2025:** DUT Information-Communication, IUT Bordeaux Montaigne.
